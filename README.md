@@ -4,4 +4,6 @@ A few button/control mapping template files that I've created for documenting my
 ## Thanks
 Thanks to agarwaen117 on Reddit for making the PDF documents fillable!
 
+Thanks to JusticeMKIII on Reddit for making the VKB Gladiator NXT templates and allowing me to post them here!
+
 Thanks to VKB and Virpil/VPC for providing the original control templates. I hope you don't mind me making some improvements :)
